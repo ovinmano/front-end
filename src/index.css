@@ -11,3 +11,63 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar-brand{
+  color: white !important;
+}
+.navbar {
+  background: #000;
+}
+.nav-link{
+  
+  color: white !important;
+}
+.navbar-nav{
+  margin-left: auto;
+}
+
+.table-container {
+  width: 95%;
+  margin: 40px auto 0;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 40px;
+
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table thead tr th {
+  font-size: 14px;
+  font-weight: medium;
+  background-color: #c9d8e2;
+  letter-spacing: 0.35px;
+  opacity: 1;
+  padding: 12px;
+  vertical-align: top;
+  border: 1px solid white;
+}
+
+table tbody tr td {
+  letter-spacing: 0.35px;
+  font-size: 14px;
+  font-weight: normal;
+  background-color: #e7f5ff;
+  padding: 8px;
+  text-align: center;
+  border: 1px solid white;
+}
+.form-control{
+  width:50%;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.reg-btn{
+  width: 50%;
+  margin-top: 20px;
+}
